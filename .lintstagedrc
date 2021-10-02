@@ -1,0 +1,15 @@
+{
+  "*.{js,ts,tsx}": [
+    "prettier --write",
+    "eslint --fix"
+  ],
+  "*.json": [
+    "prettier --write"
+  ],
+  "*.{css,scss}": [
+    "prettier --write"
+  ],
+  "*.md": [
+    "prettier --write --prose-wrap always"
+  ]
+}
