@@ -4,6 +4,7 @@ ports:
 
 tasks:
   - init: |
+      brew install gh
       yarn global add vercel
       yarn install
     command: yarn dev
