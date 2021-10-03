@@ -3,5 +3,7 @@ ports:
     onOpen: open-preview
 
 tasks:
-  - init: yarn install
+  - init: |
+      yarn global add vercel
+      yarn install
     command: yarn dev
