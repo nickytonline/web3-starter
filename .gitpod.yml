@@ -5,6 +5,8 @@ ports:
 tasks:
   - init: |
       brew install gh
-      yarn global add vercel
+      nvm install $(cat .nvmrc)
+      nvm alias default $(cat .nvmrc)
+      npm install -g vercel
       yarn install
     command: yarn dev
