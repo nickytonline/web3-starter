@@ -9,7 +9,7 @@
   "*.{css,scss}": [
     "prettier --write"
   ],
-  "*.md": [
+  "*.{md, yml}": [
     "prettier --write --prose-wrap always"
   ]
 }
