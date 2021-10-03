@@ -118,3 +118,6 @@ dist
 .pnp.*
 
 .vercel
+
+# macOS files to ignore
+.DS_Store
