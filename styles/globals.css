@@ -88,3 +88,12 @@ body,
   place-items: center;
   margin-top: 1rem;
 }
+
+/* Animations are off by default for those that prefer reduced motion
+   https://www.tatianamac.com/posts/prefers-reduced-motion/
+ */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation: none !important;
+  }
+}
