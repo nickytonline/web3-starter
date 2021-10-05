@@ -39,7 +39,9 @@ https://gitpod.io/#https://github.com/some_user_that_forked_the_repository/hello
 For move information on Gitpod, check out the
 [Gitpod documentation](https://www.gitpod.io/docs/).
 
-## More
+## Under the hood
+
+### Next.js
 
 You can start editing the page by modifying `pages/index.tsx`. The page
 auto-updates as you edit the file.
@@ -52,8 +54,6 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are
 treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead
 of React pages.
 
-## Learn More
-
 To learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js
@@ -63,6 +63,21 @@ To learn more about Next.js, take a look at the following resources:
 You can check out
 [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your
 feedback and contributions are welcome!
+
+### Apollo
+
+For more on Apollo, check out their
+[official documentation](http://apollographql.com/docsd).
+
+### Ethers.js
+
+For more on Ethers.js, check out their
+[official documentation](https://docs.ethers.io/).
+
+### Theme UI
+
+For more on theme UI, check out their
+[official documentation](https://theme-ui.com/getting-started).
 
 ## Deploy on Vercel
 
