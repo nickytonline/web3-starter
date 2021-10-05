@@ -19,7 +19,7 @@
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 result.
 
-## ## Getting Started (Gitpod)
+## Getting Started (Gitpod)
 
 The project can be run in Gitpod. Navigate to
 https://gitpod.io/#https://github.com/nickytonline/hello-edge-and-node. If you
