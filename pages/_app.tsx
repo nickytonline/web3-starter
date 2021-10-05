@@ -6,7 +6,9 @@ import { defaultTheme } from '../themes/defaultTheme';
 function MyApp({ Component, pageProps }: AppProps) {
   return (
     <ThemeProvider theme={defaultTheme}>
-      <Component {...pageProps} />{' '}
+      <div sx={{ display: 'grid', placeItems: 'center' }}>
+        <Component {...pageProps} />{' '}
+      </div>
     </ThemeProvider>
   );
 }
