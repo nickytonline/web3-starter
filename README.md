@@ -1,3 +1,15 @@
+# Unofficial Edge & Node Frontend Starter
+
+I was curious what the frontend tech stack was at
+[Edge & Node](https://edgeandnode.com/), so I checked out their job listings.
+This project includes the tech I saw in the job listings, but if something is
+missing, please create an issue.
+
+The goal of this project is to give you a good boilerplate to maybe work on a
+project with their frontend stack to showcase to them. 😎
+
+Have fun!
+
 ## Getting Started (Local Development)
 
 1. Install the dependencies
