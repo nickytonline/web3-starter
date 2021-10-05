@@ -36,6 +36,11 @@ https://gitpod.io/#https://github.com/some_user_that_forked_the_repository/hello
 For move information on Gitpod, check out the
 [Gitpod documentation](https://www.gitpod.io/docs/).
 
+## Contributing
+
+If you are interested in contributing to the project, see our
+[contributing guidelines](./CONTRIBUTING.md).
+
 ## Under the hood
 
 ### Next.js
