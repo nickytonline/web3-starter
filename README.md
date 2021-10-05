@@ -1,6 +1,3 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with
-[`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Getting Started (Local Development)
 
 1. Install the dependencies
@@ -42,6 +39,9 @@ For move information on Gitpod, check out the
 ## Under the hood
 
 ### Next.js
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with
+[`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 You can start editing the page by modifying `pages/index.tsx`. The page
 auto-updates as you edit the file.
