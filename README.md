@@ -3,13 +3,21 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with
 
 ## Getting Started (Local Development)
 
-First, run the development server:
+1. Install the dependencies
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+   ```bash
+   npm install
+   # or
+   yarn
+   ```
+
+1. Start the project
+
+   ```bash
+   npm run dev
+   # or
+   yarn dev
+   ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 result.
