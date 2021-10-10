@@ -48,6 +48,49 @@ https://gitpod.io/#https://github.com/some_user_that_forked_the_repository/hello
 For move information on Gitpod, check out the
 [Gitpod documentation](https://www.gitpod.io/docs/).
 
+## Running tests
+
+The project uses [jest](https://jestjs.io). For more information on jest, see
+the [official documentation](https://jestjs.io/docs/getting-started).
+
+To run tests:
+
+```bash
+npm test
+# or
+yarn test
+```
+
+To run tests in watch mode:
+
+```bash
+npm test:watch
+# or
+yarn test:watch
+```
+
+## Storybook
+
+The project uses [Storybook](https://storybook.js.org) for building our
+components. For more on Storybook, see the
+[official documentation](https://storybook.js.org/docs/react).
+
+### Running Storybook
+
+```bash
+npm run storybook
+# or
+yarn storybook
+```
+
+### Building Storybook Static Site
+
+```bash
+npm run build-storybook
+# or
+yarn build-storybook
+```
+
 ## Contributing
 
 If you are interested in contributing to the project, see our
