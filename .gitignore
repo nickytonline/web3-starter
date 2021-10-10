@@ -128,3 +128,6 @@ typechain
 #Hardhat files
 cache
 artifacts
+
+# Storybook build artifacts
+storybook-static/
