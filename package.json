@@ -9,7 +9,9 @@
     "lint": "next lint",
     "test": "jest",
     "test:watch": "yarn jest -- --watch",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
   },
   "dependencies": {
     "@apollo/client": "^3.4.15",
@@ -21,9 +23,15 @@
     "theme-ui": "^0.11.3"
   },
   "devDependencies": {
+    "@babel/core": "^7.15.8",
     "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@storybook/addon-actions": "^6.3.10",
+    "@storybook/addon-essentials": "^6.3.10",
+    "@storybook/addon-links": "^6.3.10",
+    "@storybook/react": "^6.3.10",
     "@types/jest": "^27.0.2",
     "@types/react": "17.0.26",
+    "babel-loader": "^8.2.2",
     "eslint": "7.32.0",
     "eslint-config-next": "11.1.2",
     "eslint-config-prettier": "^8.3.0",
