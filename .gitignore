@@ -121,3 +121,10 @@ dist
 
 # macOS files to ignore
 .DS_Store
+
+coverage.json
+typechain
+
+#Hardhat files
+cache
+artifacts
