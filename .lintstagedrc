@@ -12,5 +12,8 @@
   ],
   "*.{md, yml}": [
     "prettier --write --prose-wrap always"
-  ]
+  ],
+  "*.sol": [
+    "prettier --write"
+  ],
 }
