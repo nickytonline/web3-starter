@@ -1,4 +1,4 @@
-# Unofficial Edge & Node Frontend Starter
+# Unofficial Edge & Node Starter
 
 I was curious what the frontend tech stack was at
 [Edge & Node](https://edgeandnode.com/), so I checked out their job listings.
