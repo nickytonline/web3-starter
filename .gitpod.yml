@@ -10,3 +10,10 @@ tasks:
       npm install -g vercel
       yarn install
     command: yarn dev
+
+vscode:
+  extensions:
+    - juanblanco.solidity
+    - esbenp.prettier-vscode
+    - dbaeumer.vscode-eslint
+    - eamodio.gitlens
