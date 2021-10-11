@@ -2,13 +2,20 @@
 
 I was curious what the frontend tech stack was at
 [Edge & Node](https://edgeandnode.com/), so I checked out their job listings.
-This project includes the tech I saw in the job listings, but if something is
-missing, please create an issue.
+This project includes the tech I saw in the job listings, , but I've also added
+some other goodies that will be helpful as well, like jest and Storybook.
 
 The goal of this project is to give you a good boilerplate to maybe work on a
 project with their frontend stack to showcase to them. 😎
 
 Have fun!
+
+## Contributing
+
+If you'd like to contribute to the project please look at our
+[existing issues](https://github.com/nickytonline/unofficial-edge-and-node-starter/issues).
+If you come across an issue or have a feature request,
+[create an issue](https://github.com/nickytonline/unofficial-edge-and-node-starter/issues/new/choose).
 
 ## Getting Started (Local Development)
 
