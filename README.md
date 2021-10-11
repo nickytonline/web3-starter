@@ -12,10 +12,9 @@ Have fun!
 
 ## Contributing
 
-If you'd like to contribute to the project please look at our
-[existing issues](https://github.com/nickytonline/unofficial-edge-and-node-starter/issues).
-If you come across an issue or have a feature request,
-[create an issue](https://github.com/nickytonline/unofficial-edge-and-node-starter/issues/new/choose).
+If you are interested in contributing to the project, first read our
+[contributing guidelines](./CONTRIBUTING.md). Take a look at our
+[existing issues](https://github.com/nickytonline/unofficial-edge-and-node-starter/issues), or if you come across an issue, [create an issue](https://github.com/nickytonline/unofficial-edge-and-node-starter/issues/new/choose). For feature requests, [start a discussion](https://github.com/nickytonline/unofficial-edge-and-node-starter/discussions) first.
 
 ## Getting Started (Local Development)
 
@@ -97,11 +96,6 @@ npm run build-storybook
 # or
 yarn build-storybook
 ```
-
-## Contributing
-
-If you are interested in contributing to the project, see our
-[contributing guidelines](./CONTRIBUTING.md).
 
 ## Under the hood
 
