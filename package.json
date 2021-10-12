@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "prebuild": "yarn test",
+    "prebuild": "yarn test && npx hardhat test",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
