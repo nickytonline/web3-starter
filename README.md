@@ -123,6 +123,12 @@ node scripts/sample-script.js
 npx hardhat help
 ```
 
+Unlike jest, tests for Hardhat are located in the `/test` folder and use
+mocha/chai.
+
+For more on Hardhat, see the
+[official documentation](https://hardhat.org/getting-started/).
+
 ### Next.js
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with
