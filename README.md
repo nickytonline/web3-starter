@@ -14,7 +14,12 @@ Have fun!
 
 If you are interested in contributing to the project, first read our
 [contributing guidelines](./CONTRIBUTING.md). Take a look at our
-[existing issues](https://github.com/nickytonline/unofficial-edge-and-node-starter/issues), or if you come across an issue, [create an issue](https://github.com/nickytonline/unofficial-edge-and-node-starter/issues/new/choose). For feature requests, [start a discussion](https://github.com/nickytonline/unofficial-edge-and-node-starter/discussions) first.
+[existing issues](https://github.com/nickytonline/unofficial-edge-and-node-starter/issues),
+or if you come across an issue,
+[create an issue](https://github.com/nickytonline/unofficial-edge-and-node-starter/issues/new/choose).
+For feature requests,
+[start a discussion](https://github.com/nickytonline/unofficial-edge-and-node-starter/discussions)
+first.
 
 ## Getting Started (Local Development)
 
