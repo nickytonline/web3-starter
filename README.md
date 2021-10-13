@@ -1,14 +1,6 @@
-# Unofficial Edge & Node Starter
+# Web3 Starter
 
-I was curious what the frontend tech stack was at
-[Edge & Node](https://edgeandnode.com/), so I checked out their job listings.
-This project includes the tech I saw in the job listings, , but I've also added
-some other goodies that will be helpful as well, like jest and Storybook.
-
-The goal of this project is to give you a good boilerplate to maybe work on a
-project with their frontend stack to showcase to them. 😎
-
-Have fun!
+The goal of this project is to give you an opinionated boilerplate to start a web3 project.
 
 ## Contributing
 
