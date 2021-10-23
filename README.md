@@ -1,6 +1,7 @@
 # Web3 Starter
 
-The goal of this project is to give you an opinionated boilerplate to start a web3 project.
+The goal of this project is to give you an opinionated boilerplate to start a
+web3 project.
 
 ## Contributing
 
@@ -72,7 +73,13 @@ npm test:watch
 yarn test:watch
 ```
 
-## Storybook
+## Building out components
+
+When building out components in the project, shared components can go in the
+`components` folder. Components can then be imported using the `@components`
+alias, e.g. `import { ExampleHeader } from '@components/Header';`.
+
+### Storybook
 
 The project uses [Storybook](https://storybook.js.org) for building our
 components. For more on Storybook, see the
