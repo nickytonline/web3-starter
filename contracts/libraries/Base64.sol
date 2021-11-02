@@ -1,5 +1,7 @@
 // SPDX-License-Identifier: MIT
 
+// Credit https://github.com/derekchiang/loot-name/blob/main/contracts/LootName.sol
+
 pragma solidity ^0.8.0;
 
 /// [MIT License]
